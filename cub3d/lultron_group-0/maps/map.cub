@@ -1,0 +1,20 @@
+R 1350 650
+
+NOmaps/textures/colorstone.xpm
+SO maps/textures/eagle.xpm
+EA maps/textures/redbrick.xpm
+WE maps/textures/wood.xpm
+
+S maps/textures/barrel.xpm
+
+C 255,255,255
+F 30,40,50
+
+
+ 1111 1111111
+ 110111000001 
+10200020111N1
+100000001 101   
+1020002011101  
+1000000000001 
+1111111111111
